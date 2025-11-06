@@ -1,0 +1,3 @@
+let name = "Strider";
+
+export {};

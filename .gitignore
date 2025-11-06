@@ -1,0 +1,16 @@
+# Dependencias de Node
+node_modules/
+
+# Angular cache y build
+.angular/
+dist/
+
+# Configuración de VSCode
+.vscode/
+
+# Archivos de log
+*.log
+
+# Otros
+.DS_Store
+.env
